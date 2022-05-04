@@ -1,0 +1,16 @@
+
+.textField{
+    font-family: sans-serif;
+    height: 70px;
+    width: 260px;
+    border-radius: 4px;
+    margin-right: 25px;
+    margin-top: 15px;
+    padding-left: 20px;
+    border: none;
+    font-size: large;
+}
+
+.addRedBorder{
+    border: solid red 2px;
+}

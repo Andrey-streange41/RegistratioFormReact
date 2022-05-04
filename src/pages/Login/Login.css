@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+main{
+   display: block;
+   background: #3EA9F5; 
+   color: white;
+   height: 100vh;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+    padding-top: 150px;
+    font-size: 40px;
+    display: block;
+    margin-left: 39%;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+h2{
+    padding-bottom: 20px;
+    font-size: large;
+    margin-left: 39.5%;
+    width: 400px;
+    text-align: center;
+    font-weight: 500;
+}

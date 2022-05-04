@@ -1,0 +1,39 @@
+form{
+    
+    margin-left: 36%;
+}
+
+
+.submitButton{
+    width: 560px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: #28D2D0;
+    border: none;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    margin-top: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+.fieldCantBeEmpty{
+    border: solid red 1px;
+    margin-right: 55.6%;
+    height: 35px;
+    text-align: center;
+    padding-top: 6px;
+    margin-top: 15px;
+    display: none;
+}
+
+.fieldCantBeEmptyActive{
+    display: block;
+}
+
+.onDown{
+    background-color: #22b5b2;
+    transition: 0.3s;
+}
